@@ -1,11 +1,5 @@
-### Hi there 👋
+Hi five! 👋💥
 
-- 👯 I’m looking to collaborate on open source projects in Go
-- 🔭 I’m currently practicing the [Go track][1] on exercism.org
-- 📫 You can also reach me on [linkedin.com/in/heymatthew][2]
-
-[1]: https://exercism.org/tracks/go
-[2]: https://www.linkedin.com/in/heymatthew/
 <!--
 **heymatthew/heymatthew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
